@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي ناداك
+> في سكون الليل أهواك
+> روحي تعانق طيفك هنا
+> يا منى عيني أنا فداك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
