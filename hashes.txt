@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - W3dek Howa El Aman
+
+This log tracks the cryptographic history and versioning for the song **W3dek Howa El Aman** (w3dek-howa-el-aman).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:38:41.459689 | `v1` | `a2784add70d4204b6ae4c5d27392ba4ee10c9d5292c155c4b666a76061951386` | `8ce6aa55df7ce80a9d06c378cac8779dff345c394042b7439578039d13eba3c1` | `2026-05-08_w3dek-howa-el-aman-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
